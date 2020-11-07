@@ -1,7 +1,5 @@
 ### Hi there, I'm Shivam.
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://shivamashish.me)
-
 ## I'm a Student, Developer, and Learner!!
 
 - 🌱 I’m currently learning everything 🤣
